@@ -1,0 +1,1 @@
+buyer_id,good_id,category,seller_id,brand,month,day,action,age,sex,province
